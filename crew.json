@@ -1,0 +1,38 @@
+[
+        {
+            "_id": "1",
+            "boat_id": "B1",
+            "first_name": "Alice",
+            "last_name": "Johnson",
+            "role": "Captain",
+            "Cabin": {
+                "cabin_name": "Captain's Quarters",
+                "cabin_number": "1",
+                "deck": "Bridge"
+            }
+        },
+        {
+            "_id": "2",
+            "boat_id": "B2",
+            "first_name": "Bob",
+            "last_name": "Williams",
+            "role": "First Officer",
+            "Cabin": {
+                "cabin_name": "Officer's Quarters",
+                "cabin_number": "2",
+                "deck": "Bridge"
+            }
+        },
+        {
+            "_id": "3",
+            "boat_id": "B3",
+            "first_name": "Charlie",
+            "last_name": "Davis",
+            "role": "Engineer",
+            "Cabin": {
+                "cabin_name": "Engineer's Quarters",
+                "cabin_number": "3",
+                "deck": "Engine Room"
+            }
+        }
+    ]
